@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285536018263",
+    "firebase_url": "https://opencv-93099-default-rtdb.firebaseio.com",
+    "project_id": "opencv-93099",
+    "storage_bucket": "opencv-93099.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285536018263:android:c9f9474ae8924b6bf7a812",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285536018263-6j1c41nisrqa879ou7j02muqe4363272.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfdrRmoTgp7X-zK9W1jF1TZWfd57KH3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285536018263-6j1c41nisrqa879ou7j02muqe4363272.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
